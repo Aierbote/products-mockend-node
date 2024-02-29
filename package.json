@@ -1,0 +1,14 @@
+{
+  "name": "products-mockend-node",
+  "version": "1.0.0",
+  "description": "Exercise part 2: use a node app to fetch data from a mockend api from railway, THUS this app will work as our personale API endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Cangialosi (Aierbote)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
